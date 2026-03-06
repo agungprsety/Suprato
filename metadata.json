@@ -1,0 +1,5 @@
+{
+  "name": "Suprato",
+  "description": "Cutting-edge AI-powered vocal monitor and pitch tracker using the SwiftF0 algorithm.",
+  "requestFramePermissions": ["microphone"]
+}
